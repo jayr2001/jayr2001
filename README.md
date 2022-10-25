@@ -1,4 +1,4 @@
-- 👋 Hi there, Benjamin Juma
+- 👋 Hi there, I am Benjamin Juma
 - 👀 I’m interested in technology; using data and machine learning techniques to solve  real world problems.
 - 🌱 I’m currently learning data science and machine learning at udacity. 
 - 💞️ Ask me about anything about statistics and machine learning, i'll be happy to help
